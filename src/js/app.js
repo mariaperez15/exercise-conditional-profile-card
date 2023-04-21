@@ -1,7 +1,7 @@
 import "../style/index.css";
 
 /**
- *  EDIT ONLY INSIDE THIS RENDER FUNCTION
+ *  EDIT ONLY INSIDE THIS RENDER FUNCTIONn
  *  This function is called every time the user changes types or changes any input
  * 
     {
